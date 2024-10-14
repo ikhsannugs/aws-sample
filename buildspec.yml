@@ -12,5 +12,5 @@ phases:
       - echo "building"
 artifacts:
   files:
-    - '**/*'
+    - index.html
   discard-paths: no
